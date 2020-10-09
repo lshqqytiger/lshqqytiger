@@ -5,4 +5,4 @@
 ### My Projects
 
 - BFKKuTu
-- Passport-Daldalso (Private)
+- Passport-Daldalso
