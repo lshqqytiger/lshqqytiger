@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript. (React.js)
+- 🌱 I’m currently learning JavaScript. (React)
 
 ### My Projects
 
