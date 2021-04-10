@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript. (React)
+### My Top Languages
+
+- JavaScript (jQuery, React)
+- TypeScript (React)
+- C#
+- Java
+- C/C++
+- Python
 
 ### My Projects
 
