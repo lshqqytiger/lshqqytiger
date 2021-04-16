@@ -1,13 +1,7 @@
-### Hi there 👋
+### Hi there 
 
-### My Top Languages
-
-- JavaScript (jQuery, React)
-- TypeScript (React)
-- C#
-- Java
-- C/C++
-- Python
+![status](https://github-readme-stats.vercel.app/api?username=lshqqytiger&show_icons=true)
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=lshqqytiger)
 
 ### My Projects
 
