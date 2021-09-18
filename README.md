@@ -6,3 +6,4 @@
 ### My Projects
 
 - Passport-Daldalso
+- discord-yt-bot
