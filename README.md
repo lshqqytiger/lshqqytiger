@@ -15,3 +15,4 @@
 - discord-yt-bot
 - discord-sorrygle-bot
 - sorrygle-cpp
+- numgle-ts
