@@ -16,3 +16,4 @@
 - discord-sorrygle-bot
 - sorrygle-cpp
 - numgle-ts
+- numgle-lua
