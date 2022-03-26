@@ -17,3 +17,8 @@
 - sorrygle-cpp
 - numgle-ts
 - numgle-lua
+
+### I'm currently learning
+
+- Java (* Android)
+- Wolfram
