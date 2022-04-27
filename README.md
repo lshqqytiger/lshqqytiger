@@ -11,6 +11,7 @@
 
 ### My Projects
 
+- discord-tsx-factory
 - passport-daldalso
 - discord-yt-bot
 - discord-sorrygle-bot
@@ -21,4 +22,3 @@
 ### I'm currently learning
 
 - Java (* Android)
-- Wolfram
