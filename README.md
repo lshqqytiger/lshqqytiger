@@ -7,13 +7,12 @@
 <img alt="C/C++" src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/R-%23323330.svg?style=flat-square&logo=R&logoColor=%23ffffff" />
 <img alt="Lua" src="https://img.shields.io/badge/Lua-%23323330.svg?style=flat-square&logo=Lua&logoColor=%23ffffff" />
-<img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=Python&logoColor=white"/>
+<img alt="Rust" src="https://img.shields.io/badge/Rust-%2314354C.svg?style=flat-square&logo=Rust&logoColor=white"/>
 
 ### My Projects
 
 - discord-tsx-factory
 - passport-daldalso
-- discord-yt-bot
 - discord-sorrygle-bot
 - sorrygle-cpp
 - numgle-ts
@@ -21,4 +20,5 @@
 
 ### I'm currently learning
 
+- Rust
 - Java (* Android)
