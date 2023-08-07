@@ -1,5 +1,5 @@
 ^f badge(name, displayName = name, bgColor = "00599C", logoColor = "white")
-    let src = "https://img.shields.io/badge/${displayName}-%23${bgColor}.svg?style=flat-square&logo=${name}";
+    let src = `https://img.shields.io/badge/${displayName}-%23${bgColor}.svg?style=flat-square&logo=${name}`;
     if(logoColor) src += `&logoColor=${logoColor}`;
     return `<img alt="${name}" src="${src}"/>`;
 f^
@@ -15,7 +15,7 @@ f^
 ^-
 const list = [["TypeScript"], ["C/C++", "cplusplus"]];
 for(const args of list)
-    appendl(badge(...args));
+    append(badge(...args), " ");
 -^
 
 #### Others
@@ -23,5 +23,5 @@ for(const args of list)
 ^-
 const list = [["Node.js"], ["WebAssembly"], ["React"]];
 for(const args of list)
-    appendl(badge(...args));
+    append(badge(...args), " ");
 -^
