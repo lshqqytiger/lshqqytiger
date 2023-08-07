@@ -8,7 +8,7 @@
 
 #### Languages
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%2300599C.svg?style=flat-square&logo=TypeScript&logoColor=white"/> <img alt="C/C++" src="https://img.shields.io/badge/cplusplus-%2300599C.svg?style=flat-square&logo=C/C++&logoColor=white"/> 
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%2300599C.svg?style=flat-square&logo=TypeScript&logoColor=white"/> <img alt="C/C++" src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white"/> 
 
 #### Others
 
