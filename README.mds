@@ -1,0 +1,27 @@
+^f badge(name, displayName = name, bgColor = "00599C", logoColor = "white")
+    let src = "https://img.shields.io/badge/${displayName}-%23${bgColor}.svg?style=flat-square&logo=${name}";
+    if(logoColor) src += `&logoColor=${logoColor}`;
+    return `<img alt="${name}" src="${src}"/>`;
+f^
+
+![status](https://github-readme-stats.vercel.app/api?username=lshqqytiger&show_icons=true)
+
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=lshqqytiger)
+
+### I'm interested in
+
+#### Languages
+
+^-
+const list = [["TypeScript"], ["C/C++", "cplusplus"]];
+for(const args of list)
+    appendl(badge(...args));
+-^
+
+#### Others
+
+^-
+const list = [["Node.js"], ["WebAssembly"], ["React"]];
+for(const args of list)
+    appendl(badge(...args));
+-^
