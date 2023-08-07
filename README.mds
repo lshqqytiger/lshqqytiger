@@ -21,7 +21,7 @@ for(const args of list)
 #### Others
 
 ^-
-const list = [["Node.js"], ["WebAssembly"], ["React"]];
+const list = [["Node.js"], ["npm"], ["WebAssembly"], ["React"], ["MySQL"], ["PyTorch"]];
 for(const args of list)
     append(badge(...args), " ");
 -^

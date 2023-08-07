@@ -12,4 +12,4 @@
 
 #### Others
 
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2300599C.svg?style=flat-square&logo=Node.js&logoColor=white"/> <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-%2300599C.svg?style=flat-square&logo=WebAssembly&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-%2300599C.svg?style=flat-square&logo=React&logoColor=white"/> 
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2300599C.svg?style=flat-square&logo=Node.js&logoColor=white"/> <img alt="npm" src="https://img.shields.io/badge/npm-%2300599C.svg?style=flat-square&logo=npm&logoColor=white"/> <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-%2300599C.svg?style=flat-square&logo=WebAssembly&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-%2300599C.svg?style=flat-square&logo=React&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300599C.svg?style=flat-square&logo=MySQL&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%2300599C.svg?style=flat-square&logo=PyTorch&logoColor=white"/> 
