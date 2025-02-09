@@ -1,19 +1,36 @@
 ^f badge(name, displayName = name, bgColor = "00599C", logoColor = "white")
+    name = encodeURIComponent(name);
+    displayName = encodeURIComponent(displayName);
     let src = `https://img.shields.io/badge/${name}-%23${bgColor}.svg?style=flat-square&logo=${displayName}`;
     if(logoColor) src += `&logoColor=${logoColor}`;
     return `<img alt="${name}" src="${src}"/>`;
 f^
 
-![status](https://github-readme-stats.vercel.app/api?username=lshqqytiger&show_icons=true)
+<style>
+    .body {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+    }
+</style>
 
-![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=lshqqytiger)
+<section class="body">
+    <img src="https://github-readme-stats.vercel.app/api?username=lshqqytiger&show_icons=true&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshqqytiger&hide_border=true&theme=transparent" />
+</section>
 
 ### I'm interested in
+
+- System Programming
+- GPU Programming & Assembly
+- Machine Intelligence
+- Web Frontend & Backend
+- CI/CD
 
 #### Languages
 
 ^-
-const list = [["TypeScript"], ["C/C++", "cplusplus"]];
+const list = [["TypeScript"], ["Rust"], ["C/C++", "cplusplus"], ["Python"]];
 for(const args of list)
     append(badge(...args), " ");
 -^
@@ -21,7 +38,7 @@ for(const args of list)
 #### Others
 
 ^-
-const list = [["Node.js"], ["npm"], ["WebAssembly"], ["React"], ["MySQL"], ["PyTorch"]];
+const list = [["CUDA", "nvidia"], ["PTX", "nvidia"], ["ROCm", "amd"], ["LLVM"], ["Node.js"], ["npm"], ["WebAssembly"], ["React"], ["Svelte"], ["MySQL"], ["PyTorch"], ["CI/CD", "linuxcontainers"]];
 for(const args of list)
     append(badge(...args), " ");
 -^
