@@ -1,14 +1,8 @@
 
 
-
-
-
-
-
-
-<section style="display: flex;flex-direction: row;align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lshqqytiger&show_icons=true&hide_border=true&theme=transparent" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshqqytiger&hide_border=true&theme=transparent" />
+<section>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=lshqqytiger&show_icons=true&hide_border=true&theme=transparent" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshqqytiger&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </section>
 
 ### I'm interested in
