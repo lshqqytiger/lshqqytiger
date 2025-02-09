@@ -1,14 +1,12 @@
 
 
-<style>
-    .body {
-        display: flex;
-        flex-direction: row;
-        align-items: flex-start;
-    }
-</style>
 
-<section class="body">
+
+
+
+
+
+<section style="display: flex;flex-direction: row;align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=lshqqytiger&show_icons=true&hide_border=true&theme=transparent" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshqqytiger&hide_border=true&theme=transparent" />
 </section>
