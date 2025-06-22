@@ -13,16 +13,14 @@ f^
 
 ### I'm interested in
 
+- GPU Programming
 - System Programming
-- GPU Programming & Assembly
 - Machine Intelligence
-- Web Frontend & Backend
-- CI/CD
 
 #### Languages
 
 ^-
-const list = [["TypeScript"], ["Rust"], ["C/C++", "cplusplus"], ["Python"]];
+const list = [["Rust"], ["TypeScript"], ["C/C++", "cplusplus"], ["Python"]];
 for(const args of list)
     append(badge(...args), " ");
 -^
@@ -30,7 +28,7 @@ for(const args of list)
 #### Others
 
 ^-
-const list = [["CUDA", "nvidia"], ["PTX", "nvidia"], ["ROCm", "amd"], ["LLVM"], ["Node.js"], ["npm"], ["WebAssembly"], ["React"], ["Svelte"], ["MySQL"], ["PyTorch"], ["CI/CD", "linuxcontainers"]];
+const list = [["CUDA", "nvidia"], ["PTX", "nvidia"], ["ROCm", "amd"], ["LLVM"], ["Node.js"], ["npm"], ["React"], ["Svelte"], ["PyTorch"], ["MySQL"], ["CI/CD", "linuxcontainers"]];
 for(const args of list)
     append(badge(...args), " ");
 -^
