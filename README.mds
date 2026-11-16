@@ -6,21 +6,16 @@
     return `<img alt="${name}" src="${src}"/>`;
 f^
 
-<section>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=lshqqytiger&show_icons=true&hide_border=true&theme=transparent" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshqqytiger&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-</section>
-
 ### I'm interested in
 
-- GPU Programming
-- System Programming
-- Machine Intelligence
+- Computer architecture
+- Hardware-software system
+- High performance computation
 
 #### Languages
 
 ^-
-const list = [["Rust"], ["TypeScript"], ["C/C++", "cplusplus"], ["Python"]];
+const list = [["Rust"], ["C/C++", "cplusplus"], ["TypeScript"], ["Python"]];
 for(const args of list)
     append(badge(...args), " ");
 -^
@@ -28,7 +23,7 @@ for(const args of list)
 #### Others
 
 ^-
-const list = [["CUDA", "nvidia"], ["PTX", "nvidia"], ["ROCm", "amd"], ["LLVM"], ["Node.js"], ["npm"], ["React"], ["Svelte"], ["PyTorch"], ["MySQL"], ["CI/CD", "linuxcontainers"]];
+const list = [["CUDA", "nvidia"], ["ROCm", "amd"], ["LLVM"], ["Node.js"], ["React"], ["PyTorch"], ["MySQL"], ["CI/CD", "linuxcontainers"]];
 for(const args of list)
     append(badge(...args), " ");
 -^
