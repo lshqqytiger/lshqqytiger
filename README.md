@@ -3,8 +3,8 @@
 ### I'm interested in
 
 - Computer architecture
-- Hardware-software system
-- High performance computation
+- System software
+- Parallel computing
 
 #### Languages
 
